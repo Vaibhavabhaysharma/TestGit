@@ -1,2 +1,3 @@
 This is my first text file uploaded using git!!
+Stay connected for more updates.
  
